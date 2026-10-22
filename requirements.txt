@@ -1,0 +1,12 @@
+# Smart Campus Resource Booking System
+# All dependencies are part of the Python standard library.
+
+# Standard library modules used:
+# - tkinter (GUI)
+# - sqlite3 (database)
+# - hashlib (password hashing)
+# - datetime (date/time handling)
+# - abc (abstract base classes)
+
+# No external packages required.
+# Just ensure you have Python 3.8 or higher installed.
